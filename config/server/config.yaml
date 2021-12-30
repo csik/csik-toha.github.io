@@ -140,3 +140,4 @@ params:
       enable: true
 
 # home made cache dir in cache.yaml
+cacheDir: /home/cpc83/rc_site/csik-toha.github.io/tmp
