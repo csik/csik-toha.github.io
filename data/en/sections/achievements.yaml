@@ -10,9 +10,9 @@ section:
 
 # Your achievements achievements
 achievements:
-- title: Best Presenter
-  image: /images/sections/achievements/presenter.jpg
-  summary: Best presenter in the 2020 XYZ conference.
+- title: Chris Csikszentmihalyi
+  image: /images/author/csik_promo_wide.jpeg 
+  summary: Chris is Associate Professor of Information Science. More info can be found at [https://edgyproduct.org]
 - title: Champion
   image: /images/sections/achievements/sport.jpg
   summary: Champion in cycling inter-city cycling championship 2020.
