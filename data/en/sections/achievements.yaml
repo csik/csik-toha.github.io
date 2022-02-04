@@ -12,10 +12,10 @@ section:
 achievements:
 - title: Chris Csikszentmihalyi
   image: /images/author/csik_promo_wide.jpeg 
-  summary: Chris is Associate Professor of Information Science. More info can be found at [https://edgyproduct.org]
-- title: Champion
-  image: /images/sections/achievements/sport.jpg
-  summary: Champion in cycling inter-city cycling championship 2020.
+  summary: Chris is Associate Professor of Information Science. More info can be found at [https://edgyproduct.org](https://edgyproduct.org)
+- title: Marina Zafiris
+  image: /images/sections/author/zafiris_head_shot.jpeg
+  summary: I am currently a Ph.D. student in Information Science at Cornell University; I like long walks and anti-facist country music. My past work in data science has been applied to building energy efficiency, to Indigenous land management, to fair political mapping practices. Presently, my research interests have shifted focus towards cultivating computational systems and citizen science tools that incorporate and support Indigenous, primarily Haudenosaunee, epistemes and methodologies.
 - title: Graduation
   image: /images/sections/achievements/graduation-cap.jpg
   summary: Received Bachelor of Science (B.Sc.) in Computer Science and Engineer from XYZ University.
