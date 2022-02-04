@@ -1,9 +1,10 @@
 ---
-title: "On infrastructures on mobile money"
+title: "On Infrastructures of Mobile Money"
 date: 2022-02-03T08:06:25+06:00
 description:
 author:
   name: Daniel Mwesigwa
+  image: /images/author/Mwesigwa_Daniel_Portrait.jpeg
 
 menu:
   sidebar:
@@ -27,6 +28,8 @@ However, mobile money’s ascendance closely follows in the stead of the rise an
 Meanwhile, microfinance (silently) transitioned from nimble donor-led arrangements to more “professionalized” and “commercialized” logics aimed at profitability and long term growth (Ghosh, 2018). Moreover, towards 2010, there was a marked change in the policy agenda for financial sector development that turned its attention from microfinance to ensuring access to “finance for all” and more “financial systems” beyond the original microcredit remit that administered credit to disparate groups of low income earners and individuals (Johnson & Nino-Zarazua, 2009; Ghosh, 2018).
 
 The transition from microfinance to “financialization” came with the need for a diverse range of financial services including savings, deposits, and insurance. Indeed, access to financial services is linked to improvement of livelihoods and poverty reduction and wider economic development (Demirgüç-Kunt, Klapper, & Van Oudheusden, 2015; Duvendack & Mader, 2019). As noted by Ghosh (2018) in reference to Taylor’s (2006) suggestion that the concept of financial inclusion–or “finance for all” as shown above– is the “hallmark of the drive to commercialize microfinance”. Additionally, Taylor observes that financial inclusion is a powerful legitimizing narrative that combines the moral imperative to extend access to financial services to the poor and unbanked, and the development imperative that seeks to mitigate the vulnerabilities of poor households and individuals. Mader (2016), in a searing takedown argues that “moral crusaders” operating in the new world of “poverty finance” view poverty as an ill that must be engaged through financial services extension. To this effect, the crusaders fervently proclaim that the benefits of “dethroning cash as king” could have innumerable benefits to the vulnerable poor and could even enable more women participate in the economy and have better odds at economic prosperity (Mader, 2016). Although there is growing evidence attesting to the innumerable potential and benefits of financial inclusion and its contemporary, digital financial inclusion, the profit-oriented logics that drives the digital financial inclusion narrative raises critical questions about the implications of digitalising poor people’s money and begs important questions on development actors’ (in)action on structural and political problems (Mader, 2016).
+
+Image Credit: Prudence Phiri, GPJ Zambia
 
 ## References
 
