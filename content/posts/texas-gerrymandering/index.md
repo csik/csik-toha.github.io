@@ -5,7 +5,7 @@ description:
 
 author:
   name: Marina Zafiris
-  image: /images/author/zafiris_head_shot.JPG
+  image: /images/author/zafiris_head_shot.jpeg
 
 menu:
   sidebar:
@@ -28,7 +28,7 @@ To continue, there are general national rules that the maps must comply with. On
 
 So the complications between transparency issues, state and federal requirements (or lack thereof) is what allows for gerrymandering to occur, which is the manipulation of district voter maps to benefit certain political outcomes. The product of gerrymandering is often these goofy looking shapes that are clearly not reflective of how people define their communities. However, this is not always the case, the output of gerrymandering comes in many geometries, and can be done in various ways such as cracking, packing and hijacking just to name a few. 
 
-This is my hometown of Fort Bend County, which was seen to be one of the most rapidly growing counties in Texas. On the left is the current senate district map, and on the right is one of the newly proposed maps that was released just this past November. You see how District 22 went through a growth spurt, consuming District 27’s area? That is because District 22 is at threat of becoming a democratic district due to population shifts. In order to maintain republican strongholds District 22 adopted some of District 27’s rural (predominantly white) counties. You can really see cracking at play here, the rural counties are not split apart, their boundaries line up with the boundaries of the district maps. However, Fort Bend County is split between three different districts, failing to geometriclly adhere to public representation and community ties.
+Below is my hometown of Fort Bend County, which was seen to be one of the most rapidly growing counties in Texas. On the left is the current senate district map, and on the right is one of the newly proposed maps that was released just this past November. You see how District 22 went through a growth spurt, consuming District 27’s area? That is because District 22 is at threat of becoming a democratic district due to population shifts. In order to maintain republican strongholds, District 22 adopted some of District 27’s rural (predominantly white) counties. You can truly witness cracking at play here. Rural counties are not split apart; their boundaries line up with the boundaries of the district maps. However, Fort Bend County is split between three different districts, failing to geometrically adhere to public representation and community ties.
 
 {{< img src="/posts/texas-gerrymandering/images/fb-maps.png" align="center" title="District 22 Alteration">}}
 
