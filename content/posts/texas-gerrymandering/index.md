@@ -57,7 +57,7 @@ However, I began to question whether or not these algorithmic methods were trans
 
 However, I of course do believe there is an important role purely census and machine learning work could play a productive as an element in the fight for fair maps, as does transparency as disclosure. I believe there is space in which the public, algorithmic tools, and transparency efforts and discourse can exist as a set of incomplete infrastructures and temporary solutions that can push, generate and stimulate further work in fair district maps. And in an effort to consolidate all those words I believe it's essentially… public governance with algorithms.
 
-## Assortment of Project
+## an Assortment of Projects
 
 {{< img src="/posts/texas-gerrymandering/work-space.png" align="center" title="Public governance with algorithms">}}
 
