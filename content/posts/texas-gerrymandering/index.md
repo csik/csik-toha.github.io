@@ -5,14 +5,14 @@ description:
 
 author:
   name: Marina Zafiris
-  image: /images/author/zafiris_head_shot.JPG
+  image: /images/author/zafiris_head_shot.jpeg
 
 menu:
   sidebar:
     name: Texas Gerrymandering
     identifier: texas-gerrymandering
     weight: 40
-hero: images/The_Gerry-Mander.png
+hero: The_Gerry-Mander.png
 
 ---
 
@@ -28,9 +28,9 @@ To continue, there are general national rules that the maps must comply with. On
 
 So the complications between transparency issues, state and federal requirements (or lack thereof) is what allows for gerrymandering to occur, which is the manipulation of district voter maps to benefit certain political outcomes. The product of gerrymandering is often these goofy looking shapes that are clearly not reflective of how people define their communities. However, this is not always the case, the output of gerrymandering comes in many geometries, and can be done in various ways such as cracking, packing and hijacking just to name a few. 
 
-This is my hometown of Fort Bend County, which was seen to be one of the most rapidly growing counties in Texas. On the left is the current senate district map, and on the right is one of the newly proposed maps that was released just this past November. You see how District 22 went through a growth spurt, consuming District 27’s area? That is because District 22 is at threat of becoming a democratic district due to population shifts. In order to maintain republican strongholds District 22 adopted some of District 27’s rural (predominantly white) counties. You can really see cracking at play here, the rural counties are not split apart, their boundaries line up with the boundaries of the district maps. However, Fort Bend County is split between three different districts, failing to geometriclly adhere to public representation and community ties.
+Below is my hometown of Fort Bend County, which was seen to be one of the most rapidly growing counties in Texas. On the left is the current senate district map, and on the right is one of the newly proposed maps that was released just this past November. You see how District 22 went through a growth spurt, consuming District 27’s area? That is because District 22 is at threat of becoming a democratic district due to population shifts. In order to maintain republican strongholds, District 22 adopted some of District 27’s rural (predominantly white) counties. You can truly witness cracking at play here. Rural counties are not split apart; their boundaries line up with the boundaries of the district maps. However, Fort Bend County is split between three different districts, failing to geometrically adhere to public representation and community ties.
 
-{{< img src="/posts/texas-gerrymandering/images/fb-maps.png" align="center" title="District 22 Alteration">}}
+{{< img src="/posts/texas-gerrymandering/fb-maps.png" align="center" title="District 22 Alteration">}}
 
 ## Transparency in District Mapping
 Dr. Micah Altman & Dr. Michael McDonald founded the Public Mapping Project in 2001, and helped establish the district builder tool which is an open source software that helps public novice district map makers draw maps that comply with federal regulations. And they state, “The drawing of electoral districts is among the least transparent processes in democratic governance. All too often, redistricting authorities maintain their power by obstructing public participation.” I will be using some of this terminology to now define transparency in a clearer context to what it has been defined as typically when discussing notions of “transparency” specifically in context to algorithmic governance.
@@ -51,15 +51,15 @@ You might have heard of some of these hot topics bills because of their controve
 
 Well, if we cannot implement transparency successfully in currently redistricting structures, can algorithms act as an independent entity that reduces bias in district mapping? Efficient too! I will have to say as a very avid, recently graduated data scientist I thought this could be THE solution, originally approaching this work under the notion that machine learning tactics are the foundation to future fair mapping practices. I began to look at work that involved census data clustering and intensive PDE solution approximation work, all which were great conducive algorithms as you can see from the figure below (Cohen-Addad et al, 2018).
 
-{{< img src="/posts/texas-gerrymandering/images/MLtexas.png" align="center" title=" Cohen-Addad et al- Texas balanced power diagrams for redistricting">}}
+{{< img src="/posts/texas-gerrymandering/MLtexas.png" align="center" title=" Cohen-Addad et al- Texas balanced power diagrams for redistricting">}}
 
 However, I began to question whether or not these algorithmic methods were transparent, aside from being open source. And for the same reason I think highly jargoned legislative reports and bombarded agendas are not transparent, I do not view these algorithms as transparent either. They require high level expertise to be understood and interacted with. They do not combat the obstruction of public participation, nor do they assist public participation. Additionally, to have map generation algorithms that rely solely on census data (which is flawed, both historically and presently- more on that in another post), is to take away the public's governing agency. It does not allow for constituents and the public at large to input their boundaries and definitions of community.
 
 However, I of course do believe there is an important role purely census and machine learning work could play a productive as an element in the fight for fair maps, as does transparency as disclosure. I believe there is space in which the public, algorithmic tools, and transparency efforts and discourse can exist as a set of incomplete infrastructures and temporary solutions that can push, generate and stimulate further work in fair district maps. And in an effort to consolidate all those words I believe it's essentially… public governance with algorithms.
 
-## Assortment of Project
+## an Assortment of Projects
 
-{{< img src="/posts/texas-gerrymandering/images/work-space.png" align="center" title="Public governance with algorithms">}}
+{{< img src="/posts/texas-gerrymandering/work-space.png" align="center" title="Public governance with algorithms">}}
 
 There are a number of grassroot groups in Texas working on a variety of subjects that fall in the public and transparency space, Texans Against Gerrymandering, Fair Maps Texas, Texas Civil Rights Project just to name a few.  Simultaneously, there are incredible public access geospatial tools that allow for the public to make their own maps and draw out their communities. The Metric Geometry and Gerrymandering Group created Districtr, Dave's Redistricting, Public Mapping Projects, and there are ongoing collaborations between these grassroots organizations to train residents on how to use these tools. 
 
