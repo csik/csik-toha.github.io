@@ -26,11 +26,11 @@ summary: 'Most technology serves entrenched power. The Redistributive Computing 
 socialLinks:
 - name: Email
   icon: "fas fa-envelope"
-  url: "example@gmail.com"
+  url: "chris.csik@cornell.edu"
 
 - name: Github
   icon: "fab fa-github"
-  url: "https://www.github.com/example"
+  url: "https://www.github.com/RedistributiveComputing"
 
     # - name: Stackoverflow
     #   icon: "fab fa-stack-overflow"
