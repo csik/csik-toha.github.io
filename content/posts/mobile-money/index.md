@@ -1,5 +1,5 @@
 ---
-title: "On Infrastructures of Mobile Money"
+title: "On the Moral Infrastructures of Mobile Money"
 date: 2022-02-03T08:06:25+06:00
 description:
 author:
