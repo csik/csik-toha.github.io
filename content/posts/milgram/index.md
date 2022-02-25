@@ -25,7 +25,7 @@ Having worked in the space of drones and teleoperation, it seemed clear to me th
 Of course, landing in Newark and driving straight to Ithaca, we had to quarantine for two weeks. Shopping would have been an irresponsible violation of quarantine, we didn't know anyone in the area, so...  Instacart. So easy! My guilt was tempered by the fact that we were obeying New York's guidance, but then everyone who was using teleoperated labor must surely have had some such moral calculus. Here I was, remote controlling a shopper through a smartphone. My mind immediately turned to the Milgram experiments, which it seems to me are the perfect
 metaphor for the gig economy, especially during Covid.
 
-Here then, will be a thread about my Obedience (working title) project, to remix the Milgram experiments with the gig economy for fun, pain, and profit. I'm currently working with researcher Jordan Aceto on the first prototype, which we'll write about as we approach our alpha.
+Here then, will be a thread about my Obedience (working title) project, to remix the Milgram experiments with the gig economy for fun, pain, and profit. I'm currently working with researcher Jordan Aceto on the first prototype, which we'll write about as we approach our first major version.
 
 
 
