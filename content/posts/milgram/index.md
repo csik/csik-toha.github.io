@@ -27,5 +27,5 @@ metaphor for the gig economy, especially during Covid.
 
 Here then, will be a thread about my Obedience (working title) project, to remix the Milgram experiments with the gig economy for fun, pain, and profit. I'm currently working with researcher Jordan Aceto on the first prototype, which we'll write about as we approach our first major version.
 
-
+2022/02/28
 
