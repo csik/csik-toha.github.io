@@ -7,7 +7,7 @@ copyright: © 2020 Copyright.
 # However, the theme author does not provide any warranty or takes any liability for any issue with the theme."
 
 # Meta description for your site.  This will help the search engines to find your site.
-description: Site for the Redistributed Computing Systems Group in the School of Computing and Information Science at Cornell University
+description: Site for the Redistributive Computing Systems Group in the School of Computing and Information Science at Cornell University
 
 # specify the list of custom menus that you want to show in the top navbar.
 # they will be separated by a divider from the main menus.
@@ -17,7 +17,7 @@ customMenus:
 
 # Specify OpenGraph Headers
 openGraph:
-  title: Redistributed Computing Systems
+  title: Redistributive Computing Systems
   type: website
   description: Research site for RCSG at Cornell Information Science
   image: images/author/john.png
