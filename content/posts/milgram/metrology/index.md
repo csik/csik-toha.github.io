@@ -15,7 +15,7 @@ menu:
 ---
 
 # An Audience With The Box
-Nearly two years after I contacted the Cummings Center for the History of Psychology, my schedule finally allowed me to visit the box. The staff invited me to visit while the center was closed to the public, and had a full day of measuring cut out for me, but from what I saw the Cummings Center looks like a phenomenal resource for scholars. The staff were tremendously generous. 
+Nearly two years after I contacted the [Cummings Center for the History of Psychology](https://www.uakron.edu/chp/), my schedule finally allowed me to visit the box. The staff invited me to visit while the center was closed to the public, and had a full day of measuring cut out for me, but from what I saw the Cummings Center looks like a phenomenal resource for scholars. The staff were tremendously generous. 
 
 {{< figure src="images/measure_front.jpg" attr="Chris Csikszentmihalyi / Cummings Center for the History of Psychology" attrlink="https://www.uakron.edu/chp/" alt="A pair of hands measuring Stanley Milgram's 'shock box' experimental device">}}
 
