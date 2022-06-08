@@ -40,7 +40,7 @@ I've been thinking about building a copy of the Milgram box since early in the C
 
 A day later, I'm not sure how I feel about this. I _think_ this adds depth to the project, but I nonetheless feel a bit confused, if not deflated. I'm used to being the one who builds simulacra, lies designed to reveal bigger truths. I've never built a simulacrum of a simulacrum, and I'm worried that it might be more recursive a project than I usually gravitate toward, like the brief craze in the 2000s to remake older films frame-for-frame. I guess I have learned that I prefer honest moral clarity in my fakes. Balanced with this vauge sense of whipping back the curtain only to find that I was the Wizard of Oz, I did feel a material connection to the work that I hadn't expected. Complicated day!
 
-![Metrology Image](images/back.jpg)
+{{< figure src="images/back.jpg" attr="Chris Csikszentmihalyi / Cummings Center for the History of Psychology" attrlink="https://www.uakron.edu/chp/" alt="Colorful wires and 1960s electrical components are visible through the uncovered back of a black box on a white table: Stanley Milgram's 'shock box' experimental device" caption="The right bookshelf bracket is visible near the edge of the box">}}
 
 2022/06/07 21:57
 
